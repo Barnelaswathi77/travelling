@@ -47,14 +47,16 @@ const Footer= ()=>{
                         </div>
                     </div>
                     <div className="col md-4 colb">
-                            <div className="M">   
-                                <p>Great food & drink</p>
-                                <p>pubs</p>
-                                <p>Restuarnts</p>
-                                <p>Food markers</p>
-                                <p>picnics</p>
+                            <div className="i">
+                                <div className="M">   
+                                    <p>Great food & drink</p>
+                                    <p>pubs</p>
+                                    <p>Restuarnts</p>
+                                    <p>Food markers</p>
+                                    <p>picnics</p>
 
-                            </div>          
+                                </div>   
+                            </div>       
                     </div>
                     <div className="col md-4 colb">
                         <div className="i">SUPPORT

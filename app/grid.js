@@ -1,4 +1,4 @@
-import Like from "./like";
+
 const Grid =() =>{
     return(
         <>
@@ -7,14 +7,14 @@ const Grid =() =>{
                 <div className="row">
                     <div className="col-md-4 box">
                         <img className="travel" src="/hunt.png"/>
-                         <Like/> 
+                         
                         <p className="tittle">Cozy gateway cabin.</p>
                         <p className="col-paragraph">step outside and take in the stunning views.our cabin sits on a quiet and secluded property,providing the perfect setting for a peaceful retreat.</p>
                    
                     </div>
                     <div className="col-md-4 box">
                         <img className="travel" src="/hut"/> 
-                            <Like/> 
+                            
                         <p className="tittle">Rustic Country Retreat.</p> 
                         <p className="col-paragraph">step outside and take in the stunning views.our cabin sits on a quiet and secluded property,providing the perfect setting for a peaceful retreat.</p>
                    
@@ -22,7 +22,7 @@ const Grid =() =>{
                     </div>
                     <div className="col-md-4 box">
                          <div className="tittle">Rustic Country Retreat.</div> 
-                            <Like/>
+                            
                             <p className="col-paragraph">step outside and take in the stunning views.our cabin sits on a quiet and secluded property,providing the perfect setting for a peaceful retreat.</p>
                     </div>
                 </div>
