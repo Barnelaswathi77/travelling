@@ -48,7 +48,16 @@ const Grid =() =>{
                 </div>      
             </div>
             <div className="row2">
-                    <img className="f" src="/woman"/>
+                    <img className="woman" src="/Purple woman.png"/>
+                        <p className="truly">A truly wonderful<br></br>
+                        experience.</p>
+                        <p className="w">Brillant for anyone looking to get away from the hustle
+                        <br></br> and bustle
+                            of city life or detox from their tech for a few days.<br></br>i could have stayed another week.
+                            <br></br>They really have thought about everything here down to the finest details.
+                        </p>
+            
+            
             </div>
         </>
     )

@@ -1,3 +1,6 @@
+*{
+    margin: 0px;
+}
 
 .line{
     border:solid 1px black;
@@ -69,7 +72,7 @@
 }
 
 .like{
-    bottom: 450px;
+    bottom: 400px;
     position:absolute;
     margin-left: 360px;
 }
@@ -91,10 +94,28 @@
   color:white;
   height:600px;
 }
-.f{
+.woman{
     height:650px;
     width:100%;
 }
+.truly{
+    bottom:462px;
+    color:white;
+    font-family:"Source Serif pro";
+    font-size:48px;
+    margin-left:1397px;
+    position:relative;
+}
+.w{
+    bottom:462px;
+    color:white;
+    font-family:"Source Serif pro";
+    font-size:30px;
+    margin-left:1397px;
+    position:relative;
+
+}
+
 .footer-img{
     height: 730px
 
@@ -124,16 +145,13 @@
     color:black;
     width:462px;    
 }
-.colb{
-    border:solid 1px black;
-    background-color:black;
-    display:flex;
-    float:left;
-    height:600px;
-    margin-left:200px;
-    margin-top:60px;
-    width:250px;
+.row2{
+    height:649px;
 }
+.colb{
+    margin-left:250px;
+}
+
 .i{
     color:white;
     font-family:"Source Serif pro";
@@ -155,9 +173,6 @@
     font-weight: 600;
     letter-spacing: -0.72px;
 }  
-.like{
-    font-size:10px;
-}
 .col-paragraph{
     font-size:21px;
 
@@ -175,10 +190,30 @@
         
         font-size:16px;
     }
-
-
-
-
-
+    .humans {
+        width: 418px;
+        margin-top: -1306px;
+        margin-left: 108px;
+    }
+    .truly {
+        font-size: 32px;
+        bottom: 462px;
+        color: white;
+        font-family: "Source Serif pro";
+        margin-left: 262px;
+        position: relative;
+    }
+    .w {
+        font-size: 21px;
+        bottom: 462px;
+        color: white;
+        font-family: "Source Serif pro";
+        margin-left: 262px;
+        position: relative;
+    }
+    .like{
+        bottom: 200px;
+        margin-left: 430px;
+    }
 
 }
